@@ -187,6 +187,4 @@ Every number in the dashboard and reports downstream of that dataset is a **real
 | Visualization | Plotly (static export + Streamlit interactive) |
 | Reports | Word (.docx) |
 
-## License
 
-Add your license of choice here (e.g. MIT) before pushing publicly, or omit this section if the repo is private/for coursework submission only.
