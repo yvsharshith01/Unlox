@@ -1,0 +1,595 @@
+comment_id,post_id,topic,comment_text,true_label_sim
+C00001,P0001,Dating,good editing,Neutral
+C00002,P0001,Dating,good lighting,Neutral
+C00003,P0001,Dating,cute outfit,Neutral
+C00004,P0001,Dating,posted at a good time,Neutral
+C00005,P0001,Dating,cool content,Neutral
+C00006,P0001,Dating,following for more,Neutral
+C00007,P0002,Career Burnout,good editing,Neutral
+C00008,P0002,Career Burnout,stop reading my mind,Relatable
+C00009,P0002,Career Burnout,love the music choice,Neutral
+C00010,P0002,Career Burnout,who told you about my life,Relatable
+C00011,P0003,Social Anxiety,wait why is this so accurate,Relatable
+C00012,P0003,Social Anxiety,I thought I was the only one who felt this way,Relatable
+C00013,P0004,Overthinking,same energy honestly,Relatable
+C00014,P0004,Overthinking,the way this called me out,Relatable
+C00015,P0004,Overthinking,I felt this in my soul,Relatable
+C00016,P0004,Overthinking,more of this please,Neutral
+C00017,P0004,Overthinking,following for more,Neutral
+C00018,P0005,Imposter Syndrome,what app did you use for this,Neutral
+C00019,P0005,Imposter Syndrome,crying at 2am reading this,Relatable
+C00020,P0005,Imposter Syndrome,nice video,Neutral
+C00021,P0006,Financial Stress,good lighting,Neutral
+C00022,P0006,Financial Stress,this hit different,Relatable
+C00023,P0006,Financial Stress,keep it up,Neutral
+C00024,P0007,Dating,the background is nice,Neutral
+C00025,P0007,Dating,what's the song name,Neutral
+C00026,P0007,Dating,nice,Neutral
+C00027,P0007,Dating,posted at a good time,Neutral
+C00028,P0008,Financial Stress,no because this is so accurate it hurts,Relatable
+C00029,P0008,Financial Stress,what camera do you use,Neutral
+C00030,P0009,Dating,sending this to my therapist,Relatable
+C00031,P0009,Dating,no because this is so accurate it hurts,Relatable
+C00032,P0009,Dating,cool content,Neutral
+C00033,P0009,Dating,posted at a good time,Neutral
+C00034,P0010,Overthinking,following for more,Neutral
+C00035,P0010,Overthinking,love your page,Neutral
+C00036,P0010,Overthinking,I've never related to something more,Relatable
+C00037,P0010,Overthinking,what app did you use for this,Neutral
+C00038,P0011,Body Image,cool content,Neutral
+C00039,P0011,Body Image,this hit different,Relatable
+C00040,P0012,Body Image,omg I needed to hear this today,Relatable
+C00041,P0012,Body Image,who told you about my life,Relatable
+C00042,P0013,Financial Stress,first,Neutral
+C00043,P0013,Financial Stress,this is exactly what I go through,Relatable
+C00044,P0013,Financial Stress,love your page,Neutral
+C00045,P0013,Financial Stress,great quality,Neutral
+C00046,P0014,Friendship Fallouts,posted at a good time,Neutral
+C00047,P0014,Friendship Fallouts,what camera do you use,Neutral
+C00048,P0014,Friendship Fallouts,cute outfit,Neutral
+C00049,P0015,Body Image,I felt this in my soul,Relatable
+C00050,P0015,Body Image,this explains so much about me,Relatable
+C00051,P0016,Social Anxiety,good lighting,Neutral
+C00052,P0016,Social Anxiety,sending this to my therapist,Relatable
+C00053,P0016,Social Anxiety,this is exactly what I go through,Relatable
+C00054,P0016,Social Anxiety,I thought I was the only one who felt this way,Relatable
+C00055,P0016,Social Anxiety,crying at 2am reading this,Relatable
+C00056,P0017,Family Pressure,love your page,Neutral
+C00057,P0017,Family Pressure,this explains so much about me,Relatable
+C00058,P0017,Family Pressure,interesting,Neutral
+C00059,P0018,Imposter Syndrome,I relate to this on a spiritual level,Relatable
+C00060,P0018,Imposter Syndrome,I felt this in my soul,Relatable
+C00061,P0018,Imposter Syndrome,what's the song name,Neutral
+C00062,P0018,Imposter Syndrome,what camera do you use,Neutral
+C00063,P0018,Imposter Syndrome,love the music choice,Neutral
+C00064,P0020,Family Pressure,what camera do you use,Neutral
+C00065,P0020,Family Pressure,love the music choice,Neutral
+C00066,P0021,Dating,this is exactly what I go through,Relatable
+C00067,P0021,Dating,this hit different,Relatable
+C00068,P0022,Loneliness,this is exactly what I go through,Relatable
+C00069,P0022,Loneliness,omg I needed to hear this today,Relatable
+C00070,P0022,Loneliness,love the music choice,Neutral
+C00071,P0022,Loneliness,I relate to this on a spiritual level,Relatable
+C00072,P0023,Social Anxiety,great quality,Neutral
+C00073,P0023,Social Anxiety,I thought I was the only one who felt this way,Relatable
+C00074,P0023,Social Anxiety,this hit different,Relatable
+C00075,P0023,Social Anxiety,love your page,Neutral
+C00076,P0024,Body Image,love your page,Neutral
+C00077,P0024,Body Image,I thought I was the only one who felt this way,Relatable
+C00078,P0025,Body Image,I've never related to something more,Relatable
+C00079,P0025,Body Image,what's the song name,Neutral
+C00080,P0026,Overthinking,interesting,Neutral
+C00081,P0026,Overthinking,cool content,Neutral
+C00082,P0027,Friendship Fallouts,what app did you use for this,Neutral
+C00083,P0027,Friendship Fallouts,nice,Neutral
+C00084,P0027,Friendship Fallouts,this is exactly what I go through,Relatable
+C00085,P0027,Friendship Fallouts,nice,Neutral
+C00086,P0028,Dating,omg I needed to hear this today,Relatable
+C00087,P0028,Dating,interesting,Neutral
+C00088,P0028,Dating,omg I needed to hear this today,Relatable
+C00089,P0029,Family Pressure,first,Neutral
+C00090,P0029,Family Pressure,this is literally me,Relatable
+C00091,P0029,Family Pressure,I thought I was the only one who felt this way,Relatable
+C00092,P0030,Friendship Fallouts,nice video,Neutral
+C00093,P0030,Friendship Fallouts,cool content,Neutral
+C00094,P0030,Friendship Fallouts,how did you describe my exact thoughts,Relatable
+C00095,P0031,Career Burnout,I felt this in my soul,Relatable
+C00096,P0031,Career Burnout,I thought I was the only one who felt this way,Relatable
+C00097,P0031,Career Burnout,love the music choice,Neutral
+C00098,P0031,Career Burnout,this explains so much about me,Relatable
+C00099,P0031,Career Burnout,cool content,Neutral
+C00100,P0032,Family Pressure,nice video,Neutral
+C00101,P0032,Family Pressure,I felt this so deeply,Relatable
+C00102,P0032,Family Pressure,the background is nice,Neutral
+C00103,P0032,Family Pressure,posted at a good time,Neutral
+C00104,P0032,Family Pressure,what's the song name,Neutral
+C00105,P0033,Friendship Fallouts,cute outfit,Neutral
+C00106,P0033,Friendship Fallouts,good editing,Neutral
+C00107,P0034,Dating,no because this is so accurate it hurts,Relatable
+C00108,P0034,Dating,cute outfit,Neutral
+C00109,P0034,Dating,interesting,Neutral
+C00110,P0035,Family Pressure,clean transitions,Neutral
+C00111,P0035,Family Pressure,love the music choice,Neutral
+C00112,P0035,Family Pressure,love the music choice,Neutral
+C00113,P0035,Family Pressure,good lighting,Neutral
+C00114,P0035,Family Pressure,nice,Neutral
+C00115,P0035,Family Pressure,following for more,Neutral
+C00116,P0036,Dating,this hit different,Relatable
+C00117,P0036,Dating,love the music choice,Neutral
+C00118,P0036,Dating,this is way too real,Relatable
+C00119,P0036,Dating,love your page,Neutral
+C00120,P0036,Dating,posted at a good time,Neutral
+C00121,P0037,Family Pressure,I felt this in my soul,Relatable
+C00122,P0037,Family Pressure,stop reading my mind,Relatable
+C00123,P0038,Career Burnout,good lighting,Neutral
+C00124,P0038,Career Burnout,this is exactly what I go through,Relatable
+C00125,P0038,Career Burnout,love the music choice,Neutral
+C00126,P0038,Career Burnout,how did you describe my exact thoughts,Relatable
+C00127,P0039,Family Pressure,interesting,Neutral
+C00128,P0039,Family Pressure,love the music choice,Neutral
+C00129,P0040,Loneliness,omg I needed to hear this today,Relatable
+C00130,P0040,Loneliness,this explains so much about me,Relatable
+C00131,P0040,Loneliness,I thought I was the only one who felt this way,Relatable
+C00132,P0040,Loneliness,I thought I was the only one who felt this way,Relatable
+C00133,P0040,Loneliness,crying at 2am reading this,Relatable
+C00134,P0040,Loneliness,how did you describe my exact thoughts,Relatable
+C00135,P0041,Social Anxiety,interesting,Neutral
+C00136,P0041,Social Anxiety,this is exactly what I go through,Relatable
+C00137,P0042,Family Pressure,great quality,Neutral
+C00138,P0042,Family Pressure,crying at 2am reading this,Relatable
+C00139,P0043,Career Burnout,love your page,Neutral
+C00140,P0043,Career Burnout,omg I needed to hear this today,Relatable
+C00141,P0043,Career Burnout,more of this please,Neutral
+C00142,P0043,Career Burnout,this is literally me,Relatable
+C00143,P0044,Imposter Syndrome,nice,Neutral
+C00144,P0044,Imposter Syndrome,this hit different,Relatable
+C00145,P0045,Family Pressure,what camera do you use,Neutral
+C00146,P0045,Family Pressure,keep it up,Neutral
+C00147,P0045,Family Pressure,cool content,Neutral
+C00148,P0046,Family Pressure,interesting,Neutral
+C00149,P0046,Family Pressure,I felt this in my soul,Relatable
+C00150,P0046,Family Pressure,the background is nice,Neutral
+C00151,P0047,Social Anxiety,how did you describe my exact thoughts,Relatable
+C00152,P0047,Social Anxiety,same energy honestly,Relatable
+C00153,P0047,Social Anxiety,how did you describe my exact thoughts,Relatable
+C00154,P0047,Social Anxiety,no because this is so accurate it hurts,Relatable
+C00155,P0047,Social Anxiety,who told you about my life,Relatable
+C00156,P0048,Loneliness,I relate to this on a spiritual level,Relatable
+C00157,P0048,Loneliness,I've never related to something more,Relatable
+C00158,P0049,Family Pressure,what app did you use for this,Neutral
+C00159,P0049,Family Pressure,what camera do you use,Neutral
+C00160,P0049,Family Pressure,nice video,Neutral
+C00161,P0049,Family Pressure,the background is nice,Neutral
+C00162,P0050,Social Anxiety,this is exactly what I go through,Relatable
+C00163,P0050,Social Anxiety,same energy honestly,Relatable
+C00164,P0050,Social Anxiety,I thought I was the only one who felt this way,Relatable
+C00165,P0051,Dating,cool content,Neutral
+C00166,P0051,Dating,what's the song name,Neutral
+C00167,P0052,Loneliness,keep it up,Neutral
+C00168,P0052,Loneliness,sending this to my therapist,Relatable
+C00169,P0053,Loneliness,sending this to my therapist,Relatable
+C00170,P0053,Loneliness,this is way too real,Relatable
+C00171,P0053,Loneliness,I relate to this on a spiritual level,Relatable
+C00172,P0053,Loneliness,I thought I was the only one who felt this way,Relatable
+C00173,P0053,Loneliness,stop reading my mind,Relatable
+C00174,P0054,Family Pressure,more of this please,Neutral
+C00175,P0054,Family Pressure,more of this please,Neutral
+C00176,P0054,Family Pressure,cute outfit,Neutral
+C00177,P0055,Imposter Syndrome,the way this called me out,Relatable
+C00178,P0055,Imposter Syndrome,stop reading my mind,Relatable
+C00179,P0055,Imposter Syndrome,nice,Neutral
+C00180,P0056,Overthinking,omg I needed to hear this today,Relatable
+C00181,P0056,Overthinking,omg I needed to hear this today,Relatable
+C00182,P0056,Overthinking,the way this called me out,Relatable
+C00183,P0056,Overthinking,good editing,Neutral
+C00184,P0057,Body Image,posted at a good time,Neutral
+C00185,P0057,Body Image,no because this is so accurate it hurts,Relatable
+C00186,P0057,Body Image,what's the song name,Neutral
+C00187,P0058,Financial Stress,interesting,Neutral
+C00188,P0058,Financial Stress,cute outfit,Neutral
+C00189,P0059,Body Image,I felt this so deeply,Relatable
+C00190,P0059,Body Image,who told you about my life,Relatable
+C00191,P0059,Body Image,keep it up,Neutral
+C00192,P0060,Body Image,I felt this in my soul,Relatable
+C00193,P0060,Body Image,this hit different,Relatable
+C00194,P0061,Body Image,who told you about my life,Relatable
+C00195,P0061,Body Image,I felt this in my soul,Relatable
+C00196,P0062,Friendship Fallouts,more of this please,Neutral
+C00197,P0062,Friendship Fallouts,good lighting,Neutral
+C00198,P0062,Friendship Fallouts,cool content,Neutral
+C00199,P0062,Friendship Fallouts,keep it up,Neutral
+C00200,P0062,Friendship Fallouts,cute outfit,Neutral
+C00201,P0062,Friendship Fallouts,clean transitions,Neutral
+C00202,P0063,Loneliness,what's the song name,Neutral
+C00203,P0063,Loneliness,this is way too real,Relatable
+C00204,P0063,Loneliness,good editing,Neutral
+C00205,P0064,Career Burnout,cool content,Neutral
+C00206,P0064,Career Burnout,this hit different,Relatable
+C00207,P0064,Career Burnout,clean transitions,Neutral
+C00208,P0064,Career Burnout,first,Neutral
+C00209,P0064,Career Burnout,who told you about my life,Relatable
+C00210,P0064,Career Burnout,this is way too real,Relatable
+C00211,P0065,Loneliness,this is way too real,Relatable
+C00212,P0065,Loneliness,stop reading my mind,Relatable
+C00213,P0065,Loneliness,sending this to my therapist,Relatable
+C00214,P0065,Loneliness,I relate to this on a spiritual level,Relatable
+C00215,P0065,Loneliness,cute outfit,Neutral
+C00216,P0065,Loneliness,omg I needed to hear this today,Relatable
+C00217,P0066,Friendship Fallouts,more of this please,Neutral
+C00218,P0066,Friendship Fallouts,I felt this in my soul,Relatable
+C00219,P0066,Friendship Fallouts,more of this please,Neutral
+C00220,P0067,Career Burnout,clean transitions,Neutral
+C00221,P0067,Career Burnout,how did you describe my exact thoughts,Relatable
+C00222,P0067,Career Burnout,nice video,Neutral
+C00223,P0067,Career Burnout,the way this called me out,Relatable
+C00224,P0068,Financial Stress,posted at a good time,Neutral
+C00225,P0068,Financial Stress,omg I needed to hear this today,Relatable
+C00226,P0068,Financial Stress,who told you about my life,Relatable
+C00227,P0069,Friendship Fallouts,good lighting,Neutral
+C00228,P0069,Friendship Fallouts,clean transitions,Neutral
+C00229,P0070,Career Burnout,interesting,Neutral
+C00230,P0070,Career Burnout,sending this to my therapist,Relatable
+C00231,P0071,Loneliness,I relate to this on a spiritual level,Relatable
+C00232,P0071,Loneliness,the way this called me out,Relatable
+C00233,P0071,Loneliness,wait why is this so accurate,Relatable
+C00234,P0072,Loneliness,this explains so much about me,Relatable
+C00235,P0072,Loneliness,interesting,Neutral
+C00236,P0072,Loneliness,this hit different,Relatable
+C00237,P0072,Loneliness,this explains so much about me,Relatable
+C00238,P0072,Loneliness,I felt this so deeply,Relatable
+C00239,P0073,Imposter Syndrome,no because this is so accurate it hurts,Relatable
+C00240,P0074,Social Anxiety,who told you about my life,Relatable
+C00241,P0074,Social Anxiety,clean transitions,Neutral
+C00242,P0074,Social Anxiety,the way this called me out,Relatable
+C00243,P0074,Social Anxiety,interesting,Neutral
+C00244,P0075,Dating,cool content,Neutral
+C00245,P0075,Dating,love your page,Neutral
+C00246,P0075,Dating,love the music choice,Neutral
+C00247,P0076,Financial Stress,what camera do you use,Neutral
+C00248,P0076,Financial Stress,the way this called me out,Relatable
+C00249,P0076,Financial Stress,clean transitions,Neutral
+C00250,P0076,Financial Stress,how did you describe my exact thoughts,Relatable
+C00251,P0076,Financial Stress,this explains so much about me,Relatable
+C00252,P0076,Financial Stress,love your page,Neutral
+C00253,P0077,Overthinking,sending this to my therapist,Relatable
+C00254,P0078,Financial Stress,more of this please,Neutral
+C00255,P0078,Financial Stress,love your page,Neutral
+C00256,P0078,Financial Stress,this is way too real,Relatable
+C00257,P0079,Overthinking,cute outfit,Neutral
+C00258,P0079,Overthinking,what app did you use for this,Neutral
+C00259,P0080,Social Anxiety,I felt this so deeply,Relatable
+C00260,P0080,Social Anxiety,omg I needed to hear this today,Relatable
+C00261,P0081,Financial Stress,nice video,Neutral
+C00262,P0081,Financial Stress,nice video,Neutral
+C00263,P0081,Financial Stress,what app did you use for this,Neutral
+C00264,P0081,Financial Stress,interesting,Neutral
+C00265,P0081,Financial Stress,love the music choice,Neutral
+C00266,P0082,Body Image,stop reading my mind,Relatable
+C00267,P0082,Body Image,how did you describe my exact thoughts,Relatable
+C00268,P0082,Body Image,interesting,Neutral
+C00269,P0082,Body Image,stop reading my mind,Relatable
+C00270,P0083,Friendship Fallouts,nice video,Neutral
+C00271,P0083,Friendship Fallouts,keep it up,Neutral
+C00272,P0083,Friendship Fallouts,what app did you use for this,Neutral
+C00273,P0083,Friendship Fallouts,nice video,Neutral
+C00274,P0083,Friendship Fallouts,following for more,Neutral
+C00275,P0084,Career Burnout,I felt this in my soul,Relatable
+C00276,P0085,Body Image,good editing,Neutral
+C00277,P0085,Body Image,good lighting,Neutral
+C00278,P0085,Body Image,same energy honestly,Relatable
+C00279,P0085,Body Image,sending this to my therapist,Relatable
+C00280,P0085,Body Image,cool content,Neutral
+C00281,P0085,Body Image,love your page,Neutral
+C00282,P0086,Imposter Syndrome,love your page,Neutral
+C00283,P0086,Imposter Syndrome,love your page,Neutral
+C00284,P0086,Imposter Syndrome,stop reading my mind,Relatable
+C00285,P0087,Dating,cute outfit,Neutral
+C00286,P0088,Body Image,this is exactly what I go through,Relatable
+C00287,P0088,Body Image,the way this called me out,Relatable
+C00288,P0088,Body Image,what's the song name,Neutral
+C00289,P0089,Social Anxiety,omg I needed to hear this today,Relatable
+C00290,P0089,Social Anxiety,this hit different,Relatable
+C00291,P0089,Social Anxiety,I've never related to something more,Relatable
+C00292,P0089,Social Anxiety,I've never related to something more,Relatable
+C00293,P0089,Social Anxiety,cute outfit,Neutral
+C00294,P0090,Loneliness,this is exactly what I go through,Relatable
+C00295,P0090,Loneliness,wait why is this so accurate,Relatable
+C00296,P0090,Loneliness,I've never related to something more,Relatable
+C00297,P0090,Loneliness,wait why is this so accurate,Relatable
+C00298,P0091,Family Pressure,love your page,Neutral
+C00299,P0091,Family Pressure,more of this please,Neutral
+C00300,P0091,Family Pressure,more of this please,Neutral
+C00301,P0092,Family Pressure,posted at a good time,Neutral
+C00302,P0092,Family Pressure,love your page,Neutral
+C00303,P0092,Family Pressure,clean transitions,Neutral
+C00304,P0093,Family Pressure,the background is nice,Neutral
+C00305,P0093,Family Pressure,I relate to this on a spiritual level,Relatable
+C00306,P0093,Family Pressure,first,Neutral
+C00307,P0093,Family Pressure,cute outfit,Neutral
+C00308,P0094,Friendship Fallouts,who told you about my life,Relatable
+C00309,P0094,Friendship Fallouts,interesting,Neutral
+C00310,P0095,Imposter Syndrome,this hit different,Relatable
+C00311,P0095,Imposter Syndrome,wait why is this so accurate,Relatable
+C00312,P0095,Imposter Syndrome,love your page,Neutral
+C00313,P0095,Imposter Syndrome,the background is nice,Neutral
+C00314,P0095,Imposter Syndrome,wait why is this so accurate,Relatable
+C00315,P0096,Family Pressure,more of this please,Neutral
+C00316,P0096,Family Pressure,first,Neutral
+C00317,P0097,Imposter Syndrome,I relate to this on a spiritual level,Relatable
+C00318,P0097,Imposter Syndrome,what's the song name,Neutral
+C00319,P0098,Financial Stress,this explains so much about me,Relatable
+C00320,P0098,Financial Stress,love your page,Neutral
+C00321,P0099,Family Pressure,keep it up,Neutral
+C00322,P0099,Family Pressure,omg I needed to hear this today,Relatable
+C00323,P0100,Loneliness,love your page,Neutral
+C00324,P0100,Loneliness,I felt this in my soul,Relatable
+C00325,P0100,Loneliness,same energy honestly,Relatable
+C00326,P0101,Social Anxiety,crying at 2am reading this,Relatable
+C00327,P0101,Social Anxiety,stop reading my mind,Relatable
+C00328,P0101,Social Anxiety,the way this called me out,Relatable
+C00329,P0101,Social Anxiety,sending this to my therapist,Relatable
+C00330,P0102,Social Anxiety,crying at 2am reading this,Relatable
+C00331,P0102,Social Anxiety,I've never related to something more,Relatable
+C00332,P0102,Social Anxiety,what camera do you use,Neutral
+C00333,P0103,Body Image,omg I needed to hear this today,Relatable
+C00334,P0103,Body Image,what's the song name,Neutral
+C00335,P0103,Body Image,this hit different,Relatable
+C00336,P0103,Body Image,cute outfit,Neutral
+C00337,P0104,Family Pressure,good lighting,Neutral
+C00338,P0104,Family Pressure,what camera do you use,Neutral
+C00339,P0105,Loneliness,the way this called me out,Relatable
+C00340,P0105,Loneliness,same energy honestly,Relatable
+C00341,P0105,Loneliness,I've never related to something more,Relatable
+C00342,P0106,Career Burnout,I felt this so deeply,Relatable
+C00343,P0106,Career Burnout,this is exactly what I go through,Relatable
+C00344,P0106,Career Burnout,what's the song name,Neutral
+C00345,P0107,Loneliness,I felt this in my soul,Relatable
+C00346,P0107,Loneliness,sending this to my therapist,Relatable
+C00347,P0107,Loneliness,posted at a good time,Neutral
+C00348,P0107,Loneliness,how did you describe my exact thoughts,Relatable
+C00349,P0107,Loneliness,I felt this in my soul,Relatable
+C00350,P0107,Loneliness,this is way too real,Relatable
+C00351,P0108,Body Image,same energy honestly,Relatable
+C00352,P0108,Body Image,this is exactly what I go through,Relatable
+C00353,P0109,Financial Stress,omg I needed to hear this today,Relatable
+C00354,P0109,Financial Stress,cool content,Neutral
+C00355,P0110,Body Image,who told you about my life,Relatable
+C00356,P0110,Body Image,this is way too real,Relatable
+C00357,P0111,Social Anxiety,same energy honestly,Relatable
+C00358,P0111,Social Anxiety,good editing,Neutral
+C00359,P0111,Social Anxiety,this is exactly what I go through,Relatable
+C00360,P0112,Social Anxiety,who told you about my life,Relatable
+C00361,P0112,Social Anxiety,I felt this in my soul,Relatable
+C00362,P0112,Social Anxiety,the way this called me out,Relatable
+C00363,P0112,Social Anxiety,no because this is so accurate it hurts,Relatable
+C00364,P0113,Family Pressure,interesting,Neutral
+C00365,P0113,Family Pressure,interesting,Neutral
+C00366,P0113,Family Pressure,keep it up,Neutral
+C00367,P0114,Family Pressure,nice video,Neutral
+C00368,P0114,Family Pressure,no because this is so accurate it hurts,Relatable
+C00369,P0115,Overthinking,keep it up,Neutral
+C00370,P0115,Overthinking,this is literally me,Relatable
+C00371,P0115,Overthinking,this is exactly what I go through,Relatable
+C00372,P0116,Overthinking,what camera do you use,Neutral
+C00373,P0116,Overthinking,sending this to my therapist,Relatable
+C00374,P0116,Overthinking,I felt this in my soul,Relatable
+C00375,P0117,Family Pressure,the background is nice,Neutral
+C00376,P0117,Family Pressure,nice,Neutral
+C00377,P0118,Overthinking,cute outfit,Neutral
+C00378,P0118,Overthinking,cute outfit,Neutral
+C00379,P0118,Overthinking,love your page,Neutral
+C00380,P0118,Overthinking,what app did you use for this,Neutral
+C00381,P0119,Loneliness,stop reading my mind,Relatable
+C00382,P0119,Loneliness,this hit different,Relatable
+C00383,P0119,Loneliness,this hit different,Relatable
+C00384,P0119,Loneliness,stop reading my mind,Relatable
+C00385,P0120,Loneliness,sending this to my therapist,Relatable
+C00386,P0120,Loneliness,the background is nice,Neutral
+C00387,P0121,Imposter Syndrome,first,Neutral
+C00388,P0121,Imposter Syndrome,keep it up,Neutral
+C00389,P0121,Imposter Syndrome,nice,Neutral
+C00390,P0122,Body Image,same energy honestly,Relatable
+C00391,P0122,Body Image,who told you about my life,Relatable
+C00392,P0123,Financial Stress,sending this to my therapist,Relatable
+C00393,P0123,Financial Stress,following for more,Neutral
+C00394,P0123,Financial Stress,I thought I was the only one who felt this way,Relatable
+C00395,P0123,Financial Stress,who told you about my life,Relatable
+C00396,P0123,Financial Stress,posted at a good time,Neutral
+C00397,P0124,Family Pressure,love the music choice,Neutral
+C00398,P0124,Family Pressure,great quality,Neutral
+C00399,P0124,Family Pressure,more of this please,Neutral
+C00400,P0125,Imposter Syndrome,wait why is this so accurate,Relatable
+C00401,P0125,Imposter Syndrome,nice,Neutral
+C00402,P0125,Imposter Syndrome,who told you about my life,Relatable
+C00403,P0125,Imposter Syndrome,same energy honestly,Relatable
+C00404,P0126,Financial Stress,great quality,Neutral
+C00405,P0126,Financial Stress,interesting,Neutral
+C00406,P0127,Friendship Fallouts,stop reading my mind,Relatable
+C00407,P0127,Friendship Fallouts,cute outfit,Neutral
+C00408,P0127,Friendship Fallouts,love your page,Neutral
+C00409,P0128,Loneliness,same energy honestly,Relatable
+C00410,P0128,Loneliness,wait why is this so accurate,Relatable
+C00411,P0128,Loneliness,omg I needed to hear this today,Relatable
+C00412,P0129,Imposter Syndrome,clean transitions,Neutral
+C00413,P0129,Imposter Syndrome,interesting,Neutral
+C00414,P0129,Imposter Syndrome,what app did you use for this,Neutral
+C00415,P0129,Imposter Syndrome,I relate to this on a spiritual level,Relatable
+C00416,P0130,Loneliness,I relate to this on a spiritual level,Relatable
+C00417,P0130,Loneliness,who told you about my life,Relatable
+C00418,P0130,Loneliness,same energy honestly,Relatable
+C00419,P0130,Loneliness,this is exactly what I go through,Relatable
+C00420,P0131,Friendship Fallouts,what camera do you use,Neutral
+C00421,P0131,Friendship Fallouts,nice video,Neutral
+C00422,P0131,Friendship Fallouts,love the music choice,Neutral
+C00423,P0131,Friendship Fallouts,keep it up,Neutral
+C00424,P0132,Imposter Syndrome,nice video,Neutral
+C00425,P0132,Imposter Syndrome,great quality,Neutral
+C00426,P0132,Imposter Syndrome,keep it up,Neutral
+C00427,P0132,Imposter Syndrome,cool content,Neutral
+C00428,P0133,Dating,clean transitions,Neutral
+C00429,P0133,Dating,interesting,Neutral
+C00430,P0133,Dating,more of this please,Neutral
+C00431,P0133,Dating,this explains so much about me,Relatable
+C00432,P0133,Dating,stop reading my mind,Relatable
+C00433,P0134,Career Burnout,this is way too real,Relatable
+C00434,P0134,Career Burnout,how did you describe my exact thoughts,Relatable
+C00435,P0134,Career Burnout,the background is nice,Neutral
+C00436,P0135,Overthinking,posted at a good time,Neutral
+C00437,P0135,Overthinking,cool content,Neutral
+C00438,P0135,Overthinking,clean transitions,Neutral
+C00439,P0135,Overthinking,this is way too real,Relatable
+C00440,P0135,Overthinking,posted at a good time,Neutral
+C00441,P0135,Overthinking,this is way too real,Relatable
+C00442,P0136,Family Pressure,good lighting,Neutral
+C00443,P0137,Friendship Fallouts,great quality,Neutral
+C00444,P0137,Friendship Fallouts,nice,Neutral
+C00445,P0137,Friendship Fallouts,great quality,Neutral
+C00446,P0137,Friendship Fallouts,following for more,Neutral
+C00447,P0138,Friendship Fallouts,nice,Neutral
+C00448,P0138,Friendship Fallouts,posted at a good time,Neutral
+C00449,P0139,Social Anxiety,this is exactly what I go through,Relatable
+C00450,P0139,Social Anxiety,great quality,Neutral
+C00451,P0139,Social Anxiety,no because this is so accurate it hurts,Relatable
+C00452,P0139,Social Anxiety,sending this to my therapist,Relatable
+C00453,P0140,Financial Stress,what app did you use for this,Neutral
+C00454,P0140,Financial Stress,what camera do you use,Neutral
+C00455,P0140,Financial Stress,good editing,Neutral
+C00456,P0140,Financial Stress,what's the song name,Neutral
+C00457,P0140,Financial Stress,posted at a good time,Neutral
+C00458,P0141,Dating,this is exactly what I go through,Relatable
+C00459,P0142,Overthinking,great quality,Neutral
+C00460,P0142,Overthinking,I relate to this on a spiritual level,Relatable
+C00461,P0142,Overthinking,following for more,Neutral
+C00462,P0142,Overthinking,same energy honestly,Relatable
+C00463,P0143,Body Image,cool content,Neutral
+C00464,P0143,Body Image,this is way too real,Relatable
+C00465,P0143,Body Image,love the music choice,Neutral
+C00466,P0144,Loneliness,this is exactly what I go through,Relatable
+C00467,P0144,Loneliness,first,Neutral
+C00468,P0144,Loneliness,I felt this so deeply,Relatable
+C00469,P0145,Body Image,what camera do you use,Neutral
+C00470,P0145,Body Image,wait why is this so accurate,Relatable
+C00471,P0145,Body Image,good editing,Neutral
+C00472,P0146,Family Pressure,cool content,Neutral
+C00473,P0146,Family Pressure,first,Neutral
+C00474,P0146,Family Pressure,first,Neutral
+C00475,P0146,Family Pressure,cool content,Neutral
+C00476,P0146,Family Pressure,more of this please,Neutral
+C00477,P0146,Family Pressure,first,Neutral
+C00478,P0147,Family Pressure,nice video,Neutral
+C00479,P0147,Family Pressure,interesting,Neutral
+C00480,P0147,Family Pressure,this is way too real,Relatable
+C00481,P0147,Family Pressure,good lighting,Neutral
+C00482,P0148,Loneliness,omg I needed to hear this today,Relatable
+C00483,P0148,Loneliness,what's the song name,Neutral
+C00484,P0148,Loneliness,stop reading my mind,Relatable
+C00485,P0148,Loneliness,this hit different,Relatable
+C00486,P0148,Loneliness,the way this called me out,Relatable
+C00487,P0149,Family Pressure,what camera do you use,Neutral
+C00488,P0149,Family Pressure,nice,Neutral
+C00489,P0150,Family Pressure,more of this please,Neutral
+C00490,P0151,Friendship Fallouts,good editing,Neutral
+C00491,P0151,Friendship Fallouts,love the music choice,Neutral
+C00492,P0151,Friendship Fallouts,what app did you use for this,Neutral
+C00493,P0151,Friendship Fallouts,following for more,Neutral
+C00494,P0151,Friendship Fallouts,sending this to my therapist,Relatable
+C00495,P0152,Dating,great quality,Neutral
+C00496,P0152,Dating,what camera do you use,Neutral
+C00497,P0152,Dating,keep it up,Neutral
+C00498,P0153,Body Image,I thought I was the only one who felt this way,Relatable
+C00499,P0153,Body Image,cool content,Neutral
+C00500,P0154,Loneliness,the way this called me out,Relatable
+C00501,P0154,Loneliness,same energy honestly,Relatable
+C00502,P0155,Overthinking,what camera do you use,Neutral
+C00503,P0155,Overthinking,this explains so much about me,Relatable
+C00504,P0155,Overthinking,omg I needed to hear this today,Relatable
+C00505,P0155,Overthinking,this hit different,Relatable
+C00506,P0156,Social Anxiety,this is exactly what I go through,Relatable
+C00507,P0156,Social Anxiety,good lighting,Neutral
+C00508,P0156,Social Anxiety,nice,Neutral
+C00509,P0156,Social Anxiety,interesting,Neutral
+C00510,P0156,Social Anxiety,good editing,Neutral
+C00511,P0156,Social Anxiety,same energy honestly,Relatable
+C00512,P0157,Overthinking,no because this is so accurate it hurts,Relatable
+C00513,P0157,Overthinking,this is exactly what I go through,Relatable
+C00514,P0157,Overthinking,nice,Neutral
+C00515,P0157,Overthinking,what app did you use for this,Neutral
+C00516,P0158,Imposter Syndrome,same energy honestly,Relatable
+C00517,P0158,Imposter Syndrome,nice,Neutral
+C00518,P0159,Dating,clean transitions,Neutral
+C00519,P0159,Dating,cool content,Neutral
+C00520,P0159,Dating,clean transitions,Neutral
+C00521,P0159,Dating,keep it up,Neutral
+C00522,P0159,Dating,this hit different,Relatable
+C00523,P0160,Financial Stress,more of this please,Neutral
+C00524,P0160,Financial Stress,nice video,Neutral
+C00525,P0160,Financial Stress,keep it up,Neutral
+C00526,P0160,Financial Stress,how did you describe my exact thoughts,Relatable
+C00527,P0161,Imposter Syndrome,good lighting,Neutral
+C00528,P0161,Imposter Syndrome,good editing,Neutral
+C00529,P0161,Imposter Syndrome,posted at a good time,Neutral
+C00530,P0161,Imposter Syndrome,how did you describe my exact thoughts,Relatable
+C00531,P0162,Dating,the background is nice,Neutral
+C00532,P0162,Dating,sending this to my therapist,Relatable
+C00533,P0162,Dating,more of this please,Neutral
+C00534,P0163,Loneliness,this is exactly what I go through,Relatable
+C00535,P0163,Loneliness,I thought I was the only one who felt this way,Relatable
+C00536,P0163,Loneliness,this is exactly what I go through,Relatable
+C00537,P0163,Loneliness,omg I needed to hear this today,Relatable
+C00538,P0163,Loneliness,this explains so much about me,Relatable
+C00539,P0164,Family Pressure,what camera do you use,Neutral
+C00540,P0164,Family Pressure,good lighting,Neutral
+C00541,P0165,Family Pressure,following for more,Neutral
+C00542,P0165,Family Pressure,love your page,Neutral
+C00543,P0166,Imposter Syndrome,stop reading my mind,Relatable
+C00544,P0166,Imposter Syndrome,how did you describe my exact thoughts,Relatable
+C00545,P0166,Imposter Syndrome,nice video,Neutral
+C00546,P0167,Body Image,stop reading my mind,Relatable
+C00547,P0167,Body Image,this hit different,Relatable
+C00548,P0167,Body Image,wait why is this so accurate,Relatable
+C00549,P0168,Dating,more of this please,Neutral
+C00550,P0168,Dating,good lighting,Neutral
+C00551,P0169,Body Image,cool content,Neutral
+C00552,P0169,Body Image,who told you about my life,Relatable
+C00553,P0169,Body Image,no because this is so accurate it hurts,Relatable
+C00554,P0170,Family Pressure,cute outfit,Neutral
+C00555,P0170,Family Pressure,what app did you use for this,Neutral
+C00556,P0171,Overthinking,who told you about my life,Relatable
+C00557,P0171,Overthinking,this is exactly what I go through,Relatable
+C00558,P0171,Overthinking,first,Neutral
+C00559,P0172,Financial Stress,cool content,Neutral
+C00560,P0172,Financial Stress,more of this please,Neutral
+C00561,P0172,Financial Stress,cute outfit,Neutral
+C00562,P0172,Financial Stress,the background is nice,Neutral
+C00563,P0172,Financial Stress,sending this to my therapist,Relatable
+C00564,P0173,Overthinking,posted at a good time,Neutral
+C00565,P0173,Overthinking,this explains so much about me,Relatable
+C00566,P0173,Overthinking,omg I needed to hear this today,Relatable
+C00567,P0174,Imposter Syndrome,good lighting,Neutral
+C00568,P0174,Imposter Syndrome,how did you describe my exact thoughts,Relatable
+C00569,P0174,Imposter Syndrome,what app did you use for this,Neutral
+C00570,P0174,Imposter Syndrome,crying at 2am reading this,Relatable
+C00571,P0174,Imposter Syndrome,I felt this in my soul,Relatable
+C00572,P0175,Financial Stress,good editing,Neutral
+C00573,P0175,Financial Stress,nice,Neutral
+C00574,P0175,Financial Stress,sending this to my therapist,Relatable
+C00575,P0175,Financial Stress,interesting,Neutral
+C00576,P0175,Financial Stress,I felt this in my soul,Relatable
+C00577,P0176,Loneliness,no because this is so accurate it hurts,Relatable
+C00578,P0176,Loneliness,this is exactly what I go through,Relatable
+C00579,P0176,Loneliness,I've never related to something more,Relatable
+C00580,P0177,Loneliness,this is literally me,Relatable
+C00581,P0177,Loneliness,I've never related to something more,Relatable
+C00582,P0177,Loneliness,love the music choice,Neutral
+C00583,P0177,Loneliness,I felt this so deeply,Relatable
+C00584,P0178,Friendship Fallouts,nice,Neutral
+C00585,P0178,Friendship Fallouts,following for more,Neutral
+C00586,P0178,Friendship Fallouts,what camera do you use,Neutral
+C00587,P0179,Friendship Fallouts,love your page,Neutral
+C00588,P0179,Friendship Fallouts,love your page,Neutral
+C00589,P0179,Friendship Fallouts,posted at a good time,Neutral
+C00590,P0179,Friendship Fallouts,posted at a good time,Neutral
+C00591,P0179,Friendship Fallouts,cute outfit,Neutral
+C00592,P0180,Career Burnout,how did you describe my exact thoughts,Relatable
+C00593,P0180,Career Burnout,this explains so much about me,Relatable
+C00594,P0180,Career Burnout,nice video,Neutral

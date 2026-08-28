@@ -1,0 +1,181 @@
+post_id,post_date,topic,format,hook_type,post_time,reach,likes,comments_count,shares,saves,retention_rate,followers_gained
+P0001,2026-04-27,Dating,Short,Text,Afternoon,1656,126,8,23,31,0.588,4
+P0002,2026-03-09,Career Burnout,Short,Visual,Night,2222,167,5,97,98,0.726,19
+P0003,2026-07-08,Social Anxiety,Short,Visual,Afternoon,2022,111,6,58,58,0.549,16
+P0004,2026-04-26,Overthinking,Short,Visual,Night,2045,119,6,79,46,0.516,16
+P0005,2026-06-17,Imposter Syndrome,Long,Visual,Afternoon,1274,89,3,15,59,0.481,13
+P0006,2026-05-26,Financial Stress,Long,Visual,Afternoon,1115,50,3,24,18,0.581,5
+P0007,2026-05-31,Dating,Short,Text,Morning,1687,93,5,45,33,0.458,13
+P0008,2026-07-16,Financial Stress,Long,Visual,Night,1491,128,4,21,21,0.573,4
+P0009,2026-06-01,Dating,Long,Visual,Evening,1274,103,5,23,40,0.381,5
+P0010,2026-04-28,Overthinking,Short,Visual,Morning,2111,161,12,27,60,0.712,7
+P0011,2026-06-06,Body Image,Short,Visual,Morning,2090,118,3,46,59,0.722,16
+P0012,2026-06-03,Body Image,Long,Text,Afternoon,1663,105,3,62,74,0.503,18
+P0013,2026-04-13,Financial Stress,Short,Text,Morning,1300,85,4,12,20,0.793,2
+P0014,2026-06-06,Friendship Fallouts,Short,Visual,Night,1221,79,6,17,26,0.73,6
+P0015,2026-04-28,Body Image,Short,Text,Morning,1335,115,9,46,65,0.545,17
+P0016,2026-03-17,Social Anxiety,Long,Text,Evening,2348,199,9,37,61,0.489,12
+P0017,2026-06-10,Family Pressure,Long,Visual,Night,1388,56,3,26,24,0.499,4
+P0018,2026-05-03,Imposter Syndrome,Short,Text,Afternoon,1705,95,5,56,45,0.585,17
+P0019,2026-06-01,Friendship Fallouts,Long,Text,Night,535,29,0,12,13,0.464,2
+P0020,2026-03-13,Family Pressure,Short,Text,Morning,1333,69,2,28,51,0.574,8
+P0021,2026-03-17,Dating,Short,Visual,Night,2344,121,8,49,80,0.695,18
+P0022,2026-07-20,Loneliness,Long,Text,Evening,1538,125,6,30,30,0.477,8
+P0023,2026-03-29,Social Anxiety,Short,Text,Evening,1679,121,4,65,54,0.613,20
+P0024,2026-03-01,Body Image,Long,Visual,Night,1636,74,6,71,42,0.361,16
+P0025,2026-07-08,Body Image,Short,Visual,Evening,2672,177,7,37,132,0.762,28
+P0026,2026-04-11,Overthinking,Short,Visual,Evening,1979,113,8,84,94,0.748,28
+P0027,2026-03-05,Friendship Fallouts,Short,Text,Night,1149,55,4,26,13,0.633,3
+P0028,2026-03-15,Dating,Long,Text,Afternoon,1226,91,6,20,45,0.321,6
+P0029,2026-03-18,Family Pressure,Short,Visual,Night,1988,144,11,51,54,0.507,9
+P0030,2026-07-19,Friendship Fallouts,Short,Visual,Night,1234,64,5,21,42,0.512,9
+P0031,2026-07-17,Career Burnout,Long,Text,Afternoon,1264,87,5,21,50,0.642,7
+P0032,2026-06-21,Family Pressure,Long,Text,Evening,1249,61,5,42,46,0.451,10
+P0033,2026-04-27,Friendship Fallouts,Long,Visual,Afternoon,1258,110,8,19,26,0.459,7
+P0034,2026-07-29,Dating,Long,Visual,Afternoon,1103,74,6,35,35,0.406,6
+P0035,2026-04-28,Family Pressure,Short,Visual,Morning,1458,122,9,39,45,0.468,9
+P0036,2026-07-10,Dating,Short,Text,Morning,1714,137,11,66,52,0.533,15
+P0037,2026-07-17,Family Pressure,Long,Text,Afternoon,1146,86,6,37,24,0.604,7
+P0038,2026-06-13,Career Burnout,Long,Visual,Night,1720,71,4,49,43,0.365,12
+P0039,2026-05-30,Family Pressure,Short,Visual,Night,1540,71,4,44,27,0.736,10
+P0040,2026-03-26,Loneliness,Long,Text,Morning,2468,177,13,132,99,0.689,25
+P0041,2026-05-03,Social Anxiety,Long,Text,Morning,1103,68,2,13,61,0.57,12
+P0042,2026-06-17,Family Pressure,Short,Text,Afternoon,1052,51,2,15,28,0.804,6
+P0043,2026-03-20,Career Burnout,Long,Text,Afternoon,818,71,5,24,29,0.578,6
+P0044,2026-03-24,Imposter Syndrome,Short,Visual,Morning,1523,118,3,20,24,0.451,3
+P0045,2026-07-02,Family Pressure,Short,Text,Night,1513,96,3,32,37,0.698,6
+P0046,2026-06-06,Family Pressure,Long,Visual,Afternoon,639,45,3,5,14,0.311,2
+P0047,2026-05-13,Social Anxiety,Long,Text,Night,2049,149,5,29,87,0.469,9
+P0048,2026-05-15,Loneliness,Long,Visual,Afternoon,2111,145,7,83,79,0.483,21
+P0049,2026-03-15,Family Pressure,Short,Visual,Evening,1855,163,13,24,25,0.676,4
+P0050,2026-07-09,Social Anxiety,Long,Visual,Morning,1447,80,6,17,71,0.492,9
+P0051,2026-04-30,Dating,Short,Visual,Morning,1820,130,10,60,72,0.522,14
+P0052,2026-03-21,Loneliness,Short,Visual,Morning,2463,197,17,73,83,0.52,24
+P0053,2026-05-20,Loneliness,Long,Text,Afternoon,1762,146,8,77,88,0.443,14
+P0054,2026-05-16,Family Pressure,Long,Text,Afternoon,993,80,3,32,22,0.579,4
+P0055,2026-06-26,Imposter Syndrome,Long,Visual,Morning,1494,130,8,46,44,0.452,9
+P0056,2026-07-08,Overthinking,Short,Visual,Afternoon,2437,189,14,94,45,0.461,17
+P0057,2026-05-02,Body Image,Short,Text,Morning,1667,103,8,39,34,0.524,6
+P0058,2026-07-18,Financial Stress,Long,Visual,Night,1609,72,2,47,24,0.63,11
+P0059,2026-04-04,Body Image,Short,Text,Morning,1462,64,5,36,43,0.633,12
+P0060,2026-05-09,Body Image,Short,Visual,Afternoon,1820,80,6,57,58,0.768,19
+P0061,2026-05-07,Body Image,Short,Text,Afternoon,1717,69,4,22,35,0.485,5
+P0062,2026-03-24,Friendship Fallouts,Long,Text,Morning,1231,85,7,21,23,0.56,7
+P0063,2026-05-25,Loneliness,Long,Visual,Morning,1839,80,5,98,74,0.469,24
+P0064,2026-07-20,Career Burnout,Long,Visual,Night,1512,107,6,62,25,0.691,9
+P0065,2026-04-08,Loneliness,Short,Visual,Morning,3159,170,7,100,104,0.508,28
+P0066,2026-06-19,Friendship Fallouts,Short,Text,Afternoon,705,56,3,8,24,0.648,5
+P0067,2026-03-11,Career Burnout,Short,Text,Evening,1550,134,10,17,24,0.825,4
+P0068,2026-05-30,Financial Stress,Short,Visual,Morning,1661,98,8,56,63,0.473,15
+P0069,2026-04-11,Friendship Fallouts,Long,Visual,Afternoon,715,30,2,20,26,0.396,8
+P0070,2026-05-25,Career Burnout,Long,Visual,Afternoon,2042,178,14,38,62,0.505,9
+P0071,2026-03-28,Loneliness,Short,Text,Afternoon,2006,103,7,77,67,0.667,13
+P0072,2026-04-21,Loneliness,Short,Text,Afternoon,2057,161,9,99,85,0.851,25
+P0073,2026-04-27,Imposter Syndrome,Long,Text,Afternoon,1130,52,1,39,40,0.584,11
+P0074,2026-05-11,Social Anxiety,Short,Text,Evening,2126,86,4,74,69,0.564,17
+P0075,2026-07-16,Dating,Long,Text,Night,1199,78,6,26,40,0.554,10
+P0076,2026-04-15,Financial Stress,Short,Visual,Evening,2065,109,6,78,57,0.701,15
+P0077,2026-06-20,Overthinking,Long,Visual,Morning,1014,44,1,15,21,0.548,3
+P0078,2026-06-07,Financial Stress,Long,Text,Morning,695,39,3,15,22,0.526,3
+P0079,2026-06-20,Overthinking,Short,Text,Morning,1391,67,2,20,44,0.51,6
+P0080,2026-03-18,Social Anxiety,Short,Text,Night,2046,152,4,88,86,0.331,15
+P0081,2026-07-08,Financial Stress,Long,Visual,Evening,1586,127,9,22,30,0.441,6
+P0082,2026-05-15,Body Image,Long,Text,Night,2375,138,7,92,41,0.43,13
+P0083,2026-06-06,Friendship Fallouts,Short,Visual,Night,1745,114,7,17,40,0.642,7
+P0084,2026-05-17,Career Burnout,Long,Text,Morning,913,53,1,19,20,0.359,4
+P0085,2026-06-28,Body Image,Short,Text,Evening,2788,221,13,38,100,0.711,19
+P0086,2026-04-13,Imposter Syndrome,Long,Visual,Night,1455,67,3,31,52,0.657,11
+P0087,2026-04-30,Dating,Long,Text,Morning,656,29,1,11,12,0.535,2
+P0088,2026-03-07,Body Image,Short,Visual,Afternoon,1759,149,5,53,55,0.54,19
+P0089,2026-06-25,Social Anxiety,Short,Text,Morning,1652,146,11,72,45,0.496,11
+P0090,2026-06-11,Loneliness,Short,Text,Night,2375,161,10,57,120,0.63,17
+P0091,2026-06-17,Family Pressure,Short,Visual,Morning,1232,80,3,13,35,0.388,5
+P0092,2026-07-21,Family Pressure,Short,Text,Morning,888,56,3,8,18,0.637,2
+P0093,2026-06-27,Family Pressure,Short,Text,Afternoon,1541,81,5,44,43,0.536,11
+P0094,2026-07-19,Friendship Fallouts,Long,Text,Night,574,49,3,18,8,0.344,3
+P0095,2026-05-06,Imposter Syndrome,Short,Text,Night,1736,119,9,24,71,0.586,9
+P0096,2026-05-10,Family Pressure,Long,Text,Afternoon,902,72,5,20,19,0.429,6
+P0097,2026-05-09,Imposter Syndrome,Short,Text,Afternoon,1957,121,6,49,48,0.556,15
+P0098,2026-04-08,Financial Stress,Long,Visual,Afternoon,821,69,3,20,32,0.469,7
+P0099,2026-03-17,Family Pressure,Long,Visual,Afternoon,781,36,2,19,20,0.605,6
+P0100,2026-06-15,Loneliness,Long,Text,Night,1475,81,3,64,28,0.516,12
+P0101,2026-07-28,Social Anxiety,Short,Text,Night,2215,126,9,35,112,0.645,13
+P0102,2026-05-30,Social Anxiety,Long,Text,Morning,1882,89,3,75,86,0.414,23
+P0103,2026-07-03,Body Image,Long,Text,Afternoon,1505,79,4,26,75,0.693,13
+P0104,2026-03-08,Family Pressure,Long,Text,Night,844,73,2,20,21,0.189,5
+P0105,2026-06-28,Loneliness,Long,Text,Afternoon,1576,117,9,66,38,0.555,14
+P0106,2026-03-22,Career Burnout,Short,Text,Morning,1059,81,6,44,32,0.831,6
+P0107,2026-03-13,Loneliness,Short,Text,Afternoon,1978,137,7,28,64,0.736,14
+P0108,2026-06-25,Body Image,Long,Text,Afternoon,1669,143,7,39,72,0.189,13
+P0109,2026-06-16,Financial Stress,Long,Text,Evening,1272,59,2,29,32,0.287,10
+P0110,2026-07-17,Body Image,Short,Text,Morning,2043,146,4,72,46,0.384,20
+P0111,2026-03-11,Social Anxiety,Long,Visual,Morning,1534,67,6,48,62,0.335,9
+P0112,2026-04-09,Social Anxiety,Short,Visual,Morning,1784,151,6,33,33,0.686,8
+P0113,2026-07-23,Family Pressure,Short,Text,Morning,1005,79,4,22,24,0.618,5
+P0114,2026-04-12,Family Pressure,Long,Text,Evening,913,44,3,30,20,0.492,5
+P0115,2026-03-28,Overthinking,Short,Visual,Evening,2098,86,3,76,82,0.815,13
+P0116,2026-06-10,Overthinking,Short,Text,Night,1578,116,3,22,70,0.518,9
+P0117,2026-05-17,Family Pressure,Short,Visual,Morning,1106,49,2,30,39,0.691,11
+P0118,2026-07-15,Overthinking,Short,Visual,Evening,3098,155,7,132,49,0.484,16
+P0119,2026-03-04,Loneliness,Long,Visual,Evening,2433,148,12,114,79,0.317,20
+P0120,2026-06-01,Loneliness,Long,Visual,Night,2578,137,9,76,107,0.257,22
+P0121,2026-07-12,Imposter Syndrome,Short,Text,Afternoon,1623,126,4,63,50,0.593,19
+P0122,2026-05-08,Body Image,Long,Text,Night,1359,55,2,42,54,0.629,10
+P0123,2026-06-24,Financial Stress,Short,Visual,Evening,2121,189,11,29,44,0.583,5
+P0124,2026-03-08,Family Pressure,Long,Text,Evening,789,53,3,24,13,0.534,3
+P0125,2026-04-24,Imposter Syndrome,Long,Visual,Night,1690,118,8,26,76,0.585,12
+P0126,2026-05-10,Financial Stress,Long,Text,Evening,1465,62,2,44,22,0.183,9
+P0127,2026-05-01,Friendship Fallouts,Short,Visual,Morning,1216,66,3,32,23,0.436,7
+P0128,2026-07-04,Loneliness,Long,Visual,Night,2904,252,18,61,56,0.431,12
+P0129,2026-04-26,Imposter Syndrome,Short,Visual,Evening,2134,138,9,44,86,0.62,11
+P0130,2026-06-30,Loneliness,Short,Text,Evening,2520,163,11,77,72,0.565,24
+P0131,2026-05-30,Friendship Fallouts,Long,Text,Evening,1347,72,4,22,18,0.584,6
+P0132,2026-04-29,Imposter Syndrome,Long,Text,Evening,1073,71,5,36,44,0.44,11
+P0133,2026-07-16,Dating,Short,Text,Morning,1691,88,5,27,77,0.66,18
+P0134,2026-05-10,Career Burnout,Short,Visual,Night,2411,100,7,49,114,0.621,28
+P0135,2026-05-15,Overthinking,Long,Visual,Afternoon,1551,128,10,34,70,0.549,8
+P0136,2026-03-04,Family Pressure,Long,Visual,Evening,1098,50,1,29,23,0.528,7
+P0137,2026-03-14,Friendship Fallouts,Short,Text,Morning,1098,73,5,17,30,0.552,7
+P0138,2026-03-27,Friendship Fallouts,Long,Visual,Night,893,36,2,7,30,0.538,4
+P0139,2026-06-21,Social Anxiety,Long,Text,Night,1377,88,5,63,77,0.637,21
+P0140,2026-07-01,Financial Stress,Short,Visual,Evening,1565,120,5,18,36,0.394,5
+P0141,2026-03-19,Dating,Short,Text,Night,1318,55,1,54,36,0.513,10
+P0142,2026-07-23,Overthinking,Short,Visual,Afternoon,1612,141,10,21,49,0.687,11
+P0143,2026-07-21,Body Image,Short,Visual,Morning,1947,137,5,93,48,0.686,24
+P0144,2026-06-22,Loneliness,Short,Text,Night,2646,173,7,51,72,0.8,12
+P0145,2026-03-26,Body Image,Long,Text,Morning,1043,44,3,45,53,0.61,17
+P0146,2026-04-10,Family Pressure,Short,Text,Morning,1099,85,6,13,37,0.464,5
+P0147,2026-03-01,Family Pressure,Short,Visual,Afternoon,1573,109,7,16,56,0.423,7
+P0148,2026-03-09,Loneliness,Long,Text,Evening,2143,144,5,63,72,0.598,14
+P0149,2026-03-19,Family Pressure,Long,Text,Night,1079,47,2,28,14,0.683,6
+P0150,2026-03-30,Family Pressure,Long,Visual,Night,349,24,1,6,10,0.363,2
+P0151,2026-04-06,Friendship Fallouts,Short,Visual,Evening,1964,156,10,58,66,0.562,18
+P0152,2026-07-24,Dating,Short,Visual,Evening,2405,177,11,81,45,0.708,21
+P0153,2026-05-17,Body Image,Long,Visual,Night,1719,97,7,28,80,0.485,17
+P0154,2026-03-21,Loneliness,Long,Text,Night,1587,86,5,85,71,0.468,16
+P0155,2026-05-04,Overthinking,Short,Text,Evening,2318,183,6,87,81,0.865,29
+P0156,2026-05-08,Social Anxiety,Short,Visual,Morning,2581,223,8,126,115,0.432,20
+P0157,2026-07-11,Overthinking,Short,Visual,Night,2590,112,7,59,98,0.482,13
+P0158,2026-07-04,Imposter Syndrome,Long,Visual,Night,1727,71,2,35,53,0.404,13
+P0159,2026-05-25,Dating,Long,Text,Night,1106,59,5,25,31,0.693,5
+P0160,2026-06-14,Financial Stress,Short,Visual,Evening,2264,115,4,65,73,0.723,14
+P0161,2026-06-25,Imposter Syndrome,Long,Text,Morning,1373,83,5,31,32,0.456,11
+P0162,2026-03-30,Dating,Long,Text,Evening,1754,90,3,18,61,0.443,9
+P0163,2026-03-14,Loneliness,Short,Text,Night,2115,186,7,103,108,0.739,33
+P0164,2026-03-14,Family Pressure,Long,Text,Night,1215,86,3,10,45,0.54,7
+P0165,2026-06-21,Family Pressure,Long,Visual,Evening,1460,66,2,38,34,0.64,7
+P0166,2026-04-10,Imposter Syndrome,Short,Visual,Afternoon,1612,111,5,58,40,0.603,12
+P0167,2026-04-27,Body Image,Short,Text,Morning,1469,102,4,54,70,0.314,19
+P0168,2026-07-06,Dating,Long,Visual,Afternoon,1396,63,2,57,25,0.399,10
+P0169,2026-06-29,Body Image,Long,Text,Night,2048,139,4,47,72,0.573,10
+P0170,2026-04-18,Family Pressure,Long,Visual,Night,1232,54,2,14,33,0.457,7
+P0171,2026-06-15,Overthinking,Short,Visual,Evening,2294,110,3,76,94,0.674,14
+P0172,2026-05-16,Financial Stress,Long,Visual,Evening,2163,180,13,70,49,0.51,19
+P0173,2026-07-16,Overthinking,Long,Visual,Night,2200,137,9,64,92,0.491,13
+P0174,2026-06-25,Imposter Syndrome,Long,Text,Night,988,78,5,26,32,0.404,8
+P0175,2026-04-29,Financial Stress,Short,Visual,Night,1833,91,6,19,25,0.619,4
+P0176,2026-06-06,Loneliness,Short,Text,Night,2614,199,14,79,86,0.592,19
+P0177,2026-04-02,Loneliness,Short,Text,Morning,1952,120,8,64,108,0.731,29
+P0178,2026-03-26,Friendship Fallouts,Long,Visual,Night,818,56,4,10,22,0.399,4
+P0179,2026-06-13,Friendship Fallouts,Long,Visual,Afternoon,969,73,6,11,16,0.515,4
+P0180,2026-05-26,Career Burnout,Short,Text,Evening,2125,137,6,86,64,0.57,19
